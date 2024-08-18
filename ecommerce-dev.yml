@@ -1,7 +1,7 @@
 token:
-  secret: "dev_very_long_and_secure_jwt_secret_key_here_make_it_at_least_256_bits"
+  secret: "your_very_long_and_secure_jwt_secret_key_here_make_it_at_least_256_bits"
 #  expiration-time: 86400000  # 24 hours in milliseconds
-  expiration-time: 999999  # 24 hours in milliseconds
+  expiration-time: 111111  # 24 hours in milliseconds
 
 
 gateway:
